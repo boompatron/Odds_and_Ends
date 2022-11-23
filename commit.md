@@ -1,4 +1,13 @@
-커밋 메세지 작성시 tag
+커밋 메세지 구조
+~~~
+<type>(<scope>): <subject>          -- 헤더
+<BLANK LINE>
+<body>                              -- 본문
+<BLANK LINE>
+<footer>                            -- 바닥글
+ ~~~
+
+tag 종류!
 
 
 ```
